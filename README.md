@@ -1,0 +1,3 @@
+- downlaod and install Python
+- install vboxapi using the command *python pip install vboxapi*
+- python sendMouseCoordinates.py
